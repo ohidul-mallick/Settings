@@ -1,0 +1,40 @@
+{
+    "workbench.colorTheme": "Default Dark+",
+    "editor.mouseWheelZoom": true,
+    "python.autoComplete.addBrackets": true,
+    "editor.autoClosingBrackets": "always",
+    "editor.quickSuggestions": true,
+    "files.autoSaveDelay": 1,
+    "liveServer.settings.donotVerifyTags": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.wordWrap": "on",
+    "git.enableSmartCommit": true,
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "files.associations": {
+        "**/*.html": "html",
+        "**/templates/**/*.html": "django-html",
+        "**/templates/**/*": "django-txt",
+        "**/requirements{/**,*}.{txt,in}": "pip-requirements"
+    },
+    "emmet.includeLanguages": {
+        "django-html": "html",
+        "javascript": "javascriptreact"
+    },
+    "editor.quickSuggestionsDelay": 0,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "expand",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.linkedEditing": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "python.analysis.completeFunctionParens": true,
+    "window.zoomLevel": -1
+}
